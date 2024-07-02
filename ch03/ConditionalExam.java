@@ -12,7 +12,7 @@ public class ConditionalExam {
 		
 		
 		System.out.println("점수를 입력하세요 : ");
-		score intput nextint();
+		//score intput nextint();
 		
 		
 		int score2 = 10;

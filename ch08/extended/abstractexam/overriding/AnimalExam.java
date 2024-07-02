@@ -4,8 +4,7 @@ public class AnimalExam {
 
 	public static void main(String[] args) {
 		// 추상 메서드 활용
-		
-		
+			
 		//Animal animal = new Animal() ;
 			
 		Dog dog = new Dog();
@@ -36,26 +35,12 @@ public class AnimalExam {
 		// 매개변수의 다형성 실행
 		
 		animalSound(new Cat());
-		
-		
-		
-		
+	
 	}//메인메서드 종료
 
 	//메서드의 매개변수의 다형성
 	public static void animalSound(Animal animal) {
-		
 		animal.sound();
-		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
