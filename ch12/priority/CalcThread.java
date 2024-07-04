@@ -17,15 +17,4 @@ public class CalcThread extends Thread {
 		System.out.println(getName());
 		}// 0 ~ 2000000000 까지 반복 후에 이름 출력
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
