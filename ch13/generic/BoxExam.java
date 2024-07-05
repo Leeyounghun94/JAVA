@@ -18,16 +18,7 @@ public class BoxExam {
 		boxI.setT(1234);
 		Integer age = boxI.getT();
 		System.out.println(age);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 	}
 
 }

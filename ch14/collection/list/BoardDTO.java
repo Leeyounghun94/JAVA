@@ -6,11 +6,7 @@ public class BoardDTO {
 	private String subject; // 제목
 	private String content; // 내용
 	private String writer; // 작성자
-	
-	
-	
-	
-	
+
 	//생성자
 	public BoardDTO() {//기본 생성자(세터 활용 할때 쓰임)
 		
@@ -22,10 +18,6 @@ public class BoardDTO {
 		this.writer = writer;
 	}
 
-
-		
-	
-	
 	//메서드
 	
 	public String getSubject() {

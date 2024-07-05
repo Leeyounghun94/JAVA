@@ -14,5 +14,4 @@ public class Box <T>{
 		this.t = t;
 	}// 세터
 	
-	
 }

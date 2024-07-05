@@ -24,18 +24,6 @@ public class ProductExam {
 		System.out.println(tv);
 		System.out.println(channel);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 	}
 
 }

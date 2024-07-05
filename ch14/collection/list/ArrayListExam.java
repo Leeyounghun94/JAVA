@@ -13,7 +13,6 @@ public class ArrayListExam {
 		// List<String> 는 강한타입체크로 String만! 들어간다.
 		// List<String> list = new ArrayList<String>(); -> 10개가 기본값.
 		
-		
 		List<String> listS = new ArrayList<String>();
 		
 		listS.add("Java"); // 0번 인덱스(JAVA)
@@ -39,34 +38,18 @@ public class ArrayListExam {
 		listS.remove(2);
 		listS.remove(2);
 		listS.remove("jsp");
-		
-		
-		
+
 		for(int i=0; i < listS.size() ; i ++) {
 			System.out.println(i + "번째 값 : " + listS.get(i));
 		}
-		
-		
-		
-		
-		
+	
 		listS.remove(2);
-		
-		
-		
-		
-		
+	
 		System.out.println("================ For Each 전체 출력(인덱스 사용 X) ==================");
 		
 		
 		for(String str : listS) {
 			System.out.println(str);
-			
 		}
-		
-		
-		
-		
 	}
-
 }

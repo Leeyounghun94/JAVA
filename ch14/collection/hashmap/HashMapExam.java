@@ -26,13 +26,6 @@ public class HashMapExam {
 		System.out.println("자바 키의 값 : " + map.get("자바"));
 		
 		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }

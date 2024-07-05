@@ -42,11 +42,6 @@ public class HashTableExam {
 				System.out.println("입력된 id가 없습니다.");
 				
 			}//아이디 일치 if문 종료
-			
-			
-			
-			
-			
 		}
 	}
 

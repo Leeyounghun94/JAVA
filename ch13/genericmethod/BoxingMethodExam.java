@@ -15,24 +15,7 @@ public class BoxingMethodExam {
 		Box<String> boxS = Util.<String>boxing("홍길동");	// Util.boxing("홍길동");
 		String strValue = boxS.get();
 		System.out.println(strValue);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		
 	}
 
